@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FCB Fan App</string>
+    <string name="wallpaper">Wallpapers</string>
+    <string name="message">Message</string>
+    <string name="chat">Chat</string>
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+    <string name="profile">Profile</string>
+    <string name="communicate">Communicate</string>
+    <string name="name">Codding in flow</string>
+    <string name="email">Codding_in_flow@gmail.com</string>
+
+    <string name="navigation_drawer_open">Navigatiuon Draw Open</string>
+    <string name="navigation_drawer_close">Navigatiuon Draw Close</string>
+</resources>
